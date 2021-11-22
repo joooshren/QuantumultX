@@ -126,3 +126,10 @@ DOMAIN-SUFFIX,www.apple.com
 DOMAIN-SUFFIX,appstoreconnect.apple.com
 DOMAIN-SUFFIX,iosapps-ssl.itunes.apple.com
 DOMAIN-SUFFIX,itcmobile.itunes.apple.com
+# TestFlight
+DOMAIN,beta.apple.com
+DOMAIN,testflight.apple.com
+# App Store
+# Store content such as apps, books, and music
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,ppq.apple.com // Enterprise App validation
